@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12",
+  "generatedAt": "2026-10-01",
   "pillars": [
     "Food",
     "Energy",
@@ -146,9 +146,9 @@
           "pillar": "Food"
         },
         "Electricity access": {
-          "value": 99.25,
+          "value": 99.2,
           "unit": "%",
-          "score": 98.5,
+          "score": 98.4,
           "year": "2024",
           "source": "data.gov.my / OpenDOSM",
           "confidence": "high",
@@ -193,7 +193,7 @@
       },
       "pillarScores": {
         "Food": 28.6,
-        "Energy": 98.5,
+        "Energy": 98.4,
         "Education": 45.0,
         "Shelter": 61.0,
         "Healthcare": 76.5,
@@ -226,9 +226,9 @@
           "pillar": "Food"
         },
         "Electricity access": {
-          "value": 99.06,
+          "value": 99.1,
           "unit": "%",
-          "score": 98.1,
+          "score": 98.2,
           "year": "2024",
           "source": "data.gov.my / OpenDOSM",
           "confidence": "high",
@@ -273,7 +273,7 @@
       },
       "pillarScores": {
         "Food": 58.0,
-        "Energy": 98.1,
+        "Energy": 98.2,
         "Education": 45.0,
         "Shelter": 67.4,
         "Healthcare": 77.0,
