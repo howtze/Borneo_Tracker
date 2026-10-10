@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09",
+  "generatedAt": "2026-10-10",
   "pillars": [
     "Food",
     "Energy",
@@ -328,7 +328,7 @@
           "unit": "%",
           "score": 100.0,
           "year": "2024",
-          "source": "STALE \u2014 retained from previous successful run; World Bank",
+          "source": "World Bank",
           "confidence": "high",
           "pillar": "Shelter"
         },
