@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10",
+  "generatedAt": "2026-10-11",
   "pillars": [
     "Food",
     "Energy",
@@ -164,10 +164,10 @@
           "pillar": "Education"
         },
         "Clean water access": {
-          "value": 80.5,
+          "value": 85.4,
           "unit": "%",
-          "score": 61.0,
-          "year": "2022",
+          "score": 70.8,
+          "year": "2024",
           "source": "data.gov.my / OpenDOSM",
           "confidence": "high",
           "pillar": "Shelter"
@@ -195,12 +195,12 @@
         "Food": 28.6,
         "Energy": 98.4,
         "Education": 45.0,
-        "Shelter": 61.0,
+        "Shelter": 70.8,
         "Healthcare": 76.5,
         "Entertainment": 96.0
       },
-      "index": 67.6,
-      "indexStrict": 62.0,
+      "index": 69.2,
+      "indexStrict": 63.5,
       "rag": "amber",
       "ragStrict": "amber",
       "weakestPillar": "Food",
@@ -244,10 +244,10 @@
           "pillar": "Education"
         },
         "Clean water access": {
-          "value": 83.7,
+          "value": 85.4,
           "unit": "%",
-          "score": 67.4,
-          "year": "2022",
+          "score": 70.8,
+          "year": "2024",
           "source": "data.gov.my / OpenDOSM",
           "confidence": "high",
           "pillar": "Shelter"
@@ -275,12 +275,12 @@
         "Food": 58.0,
         "Energy": 98.2,
         "Education": 45.0,
-        "Shelter": 67.4,
+        "Shelter": 70.8,
         "Healthcare": 77.0,
         "Entertainment": 96.0
       },
-      "index": 73.6,
-      "indexStrict": 71.0,
+      "index": 74.2,
+      "indexStrict": 71.5,
       "rag": "green",
       "ragStrict": "green",
       "weakestPillar": "Education",
