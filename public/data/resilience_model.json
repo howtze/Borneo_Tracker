@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11",
+  "generatedAt": "2026-10-12",
   "pillars": [
     "Food",
     "Energy",
@@ -137,11 +137,11 @@
     "Sabah": {
       "inputs": {
         "Paddy production per capita": {
-          "value": 28.6,
+          "value": 29.5,
           "unit": "kg/capita",
-          "score": 28.6,
-          "year": "2022",
-          "source": "Derived: 2022 production (data.gov.my / OpenDOSM) \u00f7 population 3,767,000 (2026; Department of Statistics Malaysia (DOSM) \u2014 population_state.csv). Production/population years may differ; this is production per current resident and stale production is tracked in docs/DATA_INTAKE_ROADMAP.md.",
+          "score": 29.5,
+          "year": "2024",
+          "source": "Derived: 2024 production (data.gov.my / OpenDOSM) \u00f7 population 3,767,000 (2026; Department of Statistics Malaysia (DOSM) \u2014 population_state.csv). Production/population years may differ; this is production per current resident and stale production is tracked in docs/DATA_INTAKE_ROADMAP.md.",
           "confidence": "medium",
           "pillar": "Food"
         },
@@ -192,15 +192,15 @@
         }
       },
       "pillarScores": {
-        "Food": 28.6,
+        "Food": 29.5,
         "Energy": 98.4,
         "Education": 45.0,
         "Shelter": 70.8,
         "Healthcare": 76.5,
         "Entertainment": 96.0
       },
-      "index": 69.2,
-      "indexStrict": 63.5,
+      "index": 69.4,
+      "indexStrict": 63.9,
       "rag": "amber",
       "ragStrict": "amber",
       "weakestPillar": "Food",
@@ -217,11 +217,11 @@
     "Sarawak": {
       "inputs": {
         "Paddy production per capita": {
-          "value": 58.0,
+          "value": 33.3,
           "unit": "kg/capita",
-          "score": 58.0,
-          "year": "2022",
-          "source": "Derived: 2022 production (data.gov.my / OpenDOSM) \u00f7 population 2,539,800 (2026; Department of Statistics Malaysia (DOSM) \u2014 population_state.csv). Production/population years may differ; this is production per current resident and stale production is tracked in docs/DATA_INTAKE_ROADMAP.md.",
+          "score": 33.3,
+          "year": "2024",
+          "source": "Derived: 2024 production (data.gov.my / OpenDOSM) \u00f7 population 2,539,800 (2026; Department of Statistics Malaysia (DOSM) \u2014 population_state.csv). Production/population years may differ; this is production per current resident and stale production is tracked in docs/DATA_INTAKE_ROADMAP.md.",
           "confidence": "medium",
           "pillar": "Food"
         },
@@ -272,18 +272,18 @@
         }
       },
       "pillarScores": {
-        "Food": 58.0,
+        "Food": 33.3,
         "Energy": 98.2,
         "Education": 45.0,
         "Shelter": 70.8,
         "Healthcare": 77.0,
         "Entertainment": 96.0
       },
-      "index": 74.2,
-      "indexStrict": 71.5,
+      "index": 70.0,
+      "indexStrict": 65.2,
       "rag": "green",
-      "ragStrict": "green",
-      "weakestPillar": "Education",
+      "ragStrict": "amber",
+      "weakestPillar": "Food",
       "scoredPillars": [
         "Education",
         "Energy",
@@ -319,7 +319,7 @@
           "unit": "%",
           "score": 90.2,
           "year": "2011",
-          "source": "World Bank",
+          "source": "STALE \u2014 retained from previous successful run; World Bank",
           "confidence": "high",
           "pillar": "Education"
         },
