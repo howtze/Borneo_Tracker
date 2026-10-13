@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12",
+  "generatedAt": "2026-10-13",
   "pillars": [
     "Food",
     "Energy",
@@ -319,7 +319,7 @@
           "unit": "%",
           "score": 90.2,
           "year": "2011",
-          "source": "STALE \u2014 retained from previous successful run; World Bank",
+          "source": "World Bank",
           "confidence": "high",
           "pillar": "Education"
         },
