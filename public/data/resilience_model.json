@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03",
+  "generatedAt": "2026-11-06",
   "pillars": [
     "Food",
     "Energy",
@@ -422,11 +422,11 @@
           "pillar": "Shelter"
         },
         "Life expectancy": {
-          "value": 71.89,
+          "value": 71.6,
           "unit": "years",
-          "score": 59.5,
+          "score": 58.0,
           "year": "2024",
-          "source": "BPS Indonesia (unweighted mean of 4/5 provinces, approx)",
+          "source": "BPS Indonesia (unweighted mean of 3/5 provinces, approx)",
           "confidence": "high",
           "pillar": "Healthcare"
         },
@@ -445,11 +445,11 @@
         "Energy": 99.3,
         "Education": 51.3,
         "Shelter": 86.5,
-        "Healthcare": 59.5,
+        "Healthcare": 58.0,
         "Entertainment": 52.2
       },
-      "index": 72.1,
-      "indexStrict": 69.7,
+      "index": 71.9,
+      "indexStrict": 69.4,
       "rag": "green",
       "ragStrict": "amber",
       "weakestPillar": "Education",

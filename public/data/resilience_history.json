@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05",
+  "generatedAt": "2026-11-06",
   "territories": {
     "Sabah": [
       {
@@ -949,6 +949,14 @@
       },
       {
         "date": "2026-11-05",
+        "index": 69.4,
+        "strict": 63.9,
+        "methodologyTag": "v1.2-canonical-fixed",
+        "isMethodologyBreak": false,
+        "sourceCommit": "7a105301a86b4de2325e903907cae664e0b1f766"
+      },
+      {
+        "date": "2026-11-06",
         "index": 69.4,
         "strict": 63.9,
         "methodologyTag": "v1.2-canonical-fixed",
@@ -1907,6 +1915,14 @@
         "strict": 65.2,
         "methodologyTag": "v1.2-canonical-fixed",
         "isMethodologyBreak": false,
+        "sourceCommit": "7a105301a86b4de2325e903907cae664e0b1f766"
+      },
+      {
+        "date": "2026-11-06",
+        "index": 70.0,
+        "strict": 65.2,
+        "methodologyTag": "v1.2-canonical-fixed",
+        "isMethodologyBreak": false,
         "sourceCommit": null
       }
     ],
@@ -2857,6 +2873,14 @@
       },
       {
         "date": "2026-11-05",
+        "index": 78.0,
+        "strict": 60.9,
+        "methodologyTag": "v1.2-canonical-fixed",
+        "isMethodologyBreak": false,
+        "sourceCommit": "7a105301a86b4de2325e903907cae664e0b1f766"
+      },
+      {
+        "date": "2026-11-06",
         "index": 78.0,
         "strict": 60.9,
         "methodologyTag": "v1.2-canonical-fixed",
@@ -3813,6 +3837,14 @@
         "date": "2026-11-05",
         "index": 72.1,
         "strict": 69.7,
+        "methodologyTag": "v1.2-canonical-fixed",
+        "isMethodologyBreak": false,
+        "sourceCommit": "7a105301a86b4de2325e903907cae664e0b1f766"
+      },
+      {
+        "date": "2026-11-06",
+        "index": 71.9,
+        "strict": 69.4,
         "methodologyTag": "v1.2-canonical-fixed",
         "isMethodologyBreak": false,
         "sourceCommit": null
