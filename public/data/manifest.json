@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-22T01:08:08Z",
-  "runId": "44969406280",
-  "dataVersion": "4c820c66ae0fd95427291e43d550fdfafc2a0f22b1adb2872beebd37bb7a6661",
+  "generatedAt": "2026-11-23T01:36:26Z",
+  "runId": "45094619046",
+  "dataVersion": "6568de1437e06a8858e1f84ec905d863ff86a8bec78d1e1226e399fe80e9e3cb",
   "files": {
     "public/data/indicators.json": {
-      "sha256": "55564bae287f479f5b6b2d04645acc75c1c8bc4de4cb080ad2f66b6334d8d310",
-      "bytes": 112009,
-      "generatedAt": "2026-11-22"
+      "sha256": "f30c48769cf79b679816fc50d0f6ef1bc44728acae5a245b98437802dbf6a79c",
+      "bytes": 112062,
+      "generatedAt": "2026-11-23"
     },
     "public/data/resilience.json": {
-      "sha256": "dacf5010609b606ea1a42662f492a64cb93e17879f71d439e25f749396cf8369",
-      "bytes": 13946,
-      "generatedAt": "2026-11-22"
+      "sha256": "ab2e54a5cfd507e77b6474d1703d923bbda5bde1de1ea950bb5f734c0445a4e2",
+      "bytes": 13998,
+      "generatedAt": "2026-11-23"
     },
     "public/data/resilience_model.json": {
-      "sha256": "a0d1daec14c611c1b863397207958f45c44397749502ff95f7ca507226824c68",
-      "bytes": 14935,
-      "generatedAt": "2026-11-06"
+      "sha256": "9ac15166a64052f82ef4c038859a0d16bb735f278c16c05ed97f4f8ae6ca3fde",
+      "bytes": 14987,
+      "generatedAt": "2026-11-23"
     },
     "public/data/districts.json": {
-      "sha256": "81290bca04febebf19b2e3ace75a1a254e878a427439f7e61c6d921b43a69a82",
+      "sha256": "3a96b3169094e5a7b22852c46df0acd956f14194e888ec028056a8454ad830f4",
       "bytes": 571926,
-      "generatedAt": "2026-11-22"
+      "generatedAt": "2026-11-23"
     },
     "public/data/borneo_districts.geojson": {
       "sha256": "20f76e31c0479bbc445df78cabc00430af23b924f6cc5cb3c8d29cfb91703d54",
@@ -37,7 +37,7 @@
   },
   "provenance": {
     "algorithm": "rfc6962-sha256-jsonl-v1",
-    "root": "aac3e41bb040abf1fba96ce308f1b53e4e045ccc789e3616abc3de46e7d8a618",
-    "entries": 824
+    "root": "bb810013497093a4ea33bcdd031ddc57692649f168bc514c4ea6500c630dfeef",
+    "entries": 832
   }
 }
