@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24",
+  "generatedAt": "2026-11-25",
   "pillars": [
     "Food",
     "Energy",
@@ -386,11 +386,11 @@
     "Kalimantan": {
       "inputs": {
         "Paddy production per capita": {
-          "value": 84.1,
+          "value": 84.7,
           "unit": "kg/capita",
-          "score": 84.1,
+          "score": 84.7,
           "year": "2025",
-          "source": "Derived: 2025 production (BPS Indonesia (sum of 3/5 provinces)) \u00f7 population 17,951,300 (2025; Derived sum of all 5 provinces from Statistics Indonesia (BPS), Statistics Indonesia 2025, Table 3.1.1). Production/population years may differ; this is production per current resident and stale production is tracked in docs/DATA_INTAKE_ROADMAP.md.",
+          "source": "Derived: 2025 production (BPS Indonesia (sum of 4/5 provinces)) \u00f7 population 17,951,300 (2025; Derived sum of all 5 provinces from Statistics Indonesia (BPS), Statistics Indonesia 2025, Table 3.1.1). Production/population years may differ; this is production per current resident and stale production is tracked in docs/DATA_INTAKE_ROADMAP.md.",
           "confidence": "medium",
           "pillar": "Food"
         },
@@ -441,15 +441,15 @@
         }
       },
       "pillarScores": {
-        "Food": 84.1,
+        "Food": 84.7,
         "Energy": 99.3,
         "Education": 51.3,
         "Shelter": 86.5,
         "Healthcare": 58.0,
         "Entertainment": 52.2
       },
-      "index": 71.9,
-      "indexStrict": 69.4,
+      "index": 72.0,
+      "indexStrict": 69.5,
       "rag": "green",
       "ragStrict": "amber",
       "weakestPillar": "Education",
