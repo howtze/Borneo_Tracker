@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-28T03:19:39Z",
+  "runId": "46101414096",
+  "dataVersion": "22977a14982902f94e277c245171223a3a3bfb50f6b58d439ffdd84e815122a1",
+  "files": {
+    "public/data/indicators.json": {
+      "sha256": "9bf20357af862601c2a4e9063bceeffc70d6b1da1cbf2c70cf2a9adcc0e9ec21",
+      "bytes": 112007,
+      "generatedAt": "2026-11-28"
+    },
+    "public/data/resilience.json": {
+      "sha256": "97b5fd604d1efed7f65463bb8e55d86f8800ead74f19ece064670a78c27b5a04",
+      "bytes": 13946,
+      "generatedAt": "2026-11-28"
+    },
+    "public/data/resilience_model.json": {
+      "sha256": "9ea0e5a107c892e2546dff89c9c1e438b0c63decac60aea11bacb66626ea3557",
+      "bytes": 14935,
+      "generatedAt": "2026-11-25"
+    },
+    "public/data/districts.json": {
+      "sha256": "50baae1c6e50515ea9a8fffad162eac5b0cfd8c2c4fd477d2213a40b2f85002f",
+      "bytes": 571926,
+      "generatedAt": "2026-11-28"
+    },
+    "public/data/borneo_districts.geojson": {
+      "sha256": "20f76e31c0479bbc445df78cabc00430af23b924f6cc5cb3c8d29cfb91703d54",
+      "bytes": 1029830,
+      "generatedAt": null
+    },
+    "public/data/brunei.geojson": {
+      "sha256": "c08649cfd37f1aaaf1c7499bdf4c5a984d1e5fd958ed6a13a066009cd71de005",
+      "bytes": 8923,
+      "generatedAt": null
+    }
+  },
+  "provenance": {
+    "algorithm": "rfc6962-sha256-jsonl-v1",
+    "root": "39ac37584ba8c794182f2e2d866ee0cb8d61c2a88d9f6af0c72e4ff4a126d424",
+    "entries": 872
+  }
+}
